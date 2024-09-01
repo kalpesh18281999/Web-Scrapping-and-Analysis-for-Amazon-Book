@@ -1,4 +1,4 @@
-📚 Comparative Analysis of Different Book Genres Web Scrapping from Amazon Book store
+📚 Comparative Analysis of Different Book Genres using Web Scrapping from Amazon Book store
 
 - **Introduction**
 
